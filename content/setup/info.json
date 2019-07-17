@@ -1,6 +1,6 @@
 {
   "sitename": "Netlify",
-  "sitedescription": "An example site using Netlify CMS and Nuxt.js, deployed on Netlify",
+  "sitedescription": "An example site using Netlify CMS and Nuxt.js, deployed on Netlify.",
   "siteicon": "/images/uploads/netlify-favicon.png",
   "showmenu": true,
   "emailsignup": true,
