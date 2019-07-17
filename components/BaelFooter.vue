@@ -70,7 +70,7 @@
         </div>
         <div class="c-12 xs-text-left xs-p2 xs-border">
             <div class="item xs-text-6"><a href="https://github.com/jake-101/bael-template">Bael</a>, An open source design by
-                <a href="https://jake101.com">Robert Moseley</a>
+                <a href="https://jake101.com">Jake</a>
             </div>
         </div>
     </div>
