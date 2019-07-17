@@ -32,7 +32,7 @@ env: {
 
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/images/uploads/netlify-favicon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Archivo+Black' }
     ]
   },
