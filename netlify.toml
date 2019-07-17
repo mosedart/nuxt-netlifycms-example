@@ -3,7 +3,7 @@
   command = "npm run generate"
   functions = "./functions"
 [build.environment]
-  NODE_VERSION = "10.16.0" 
+  NODE_VERSION = "9" 
   YARN_FLAGS = "--no-ignore-optional"
 [template.environment]
   API_URL = "https://bael-theme.jake101.com"
